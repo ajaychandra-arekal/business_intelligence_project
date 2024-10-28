@@ -18,4 +18,3 @@ This project focuses on optimizing Customer Relationship Management (CRM) for Ac
 
 This project aligns data mining and BI strategies with Acmeflex’s CRM objectives, ultimately fostering a more customer-centric approach and promoting sustainable business growth through data-driven insights.
 
-This summary provides an at-a-glance understanding of your project, the tools, and the anticipated outcomes for enhancing Acmeflex’s CRM and BI capabilities.
